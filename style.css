@@ -318,3 +318,9 @@ nav{
 .link--desc{
     color: #4994FF;
 }
+
+.sessao-videos{
+    display: flex; 
+    height: 251px;
+    background-color: green;
+}
